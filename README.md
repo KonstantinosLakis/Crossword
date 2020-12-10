@@ -1,2 +1,3 @@
 # Crossword
-Project from course "Introduction to Programming". Solves crossword puzzles with using csp algorithms.
+Project from course "Introduction to Programming". Solves crossword puzzles
+ using csp algorithms.
